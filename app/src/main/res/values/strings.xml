@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bai2InternalStorageNC</string>
+    <string name="read_data">Read Data</string>
+    <string name="save_data">Save Data</string>
+</resources>
